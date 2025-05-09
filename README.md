@@ -15,7 +15,6 @@ Este proyecto es la resolución de una prueba técnica Full Stack, dividida en d
 * Barra de búsqueda funcional para filtrar usuarios por nombre o email en tiempo real.
 * Botón "Ver detalles" en cada fila para mostrar la información completa del usuario en un modal.
 * Estilizado básico de la interfaz (tabla, búsqueda, modal) utilizando **Bootstrap 5**.
-* Implementación de un **tema oscuro básico** para la aplicación.
 
 **Tecnologías utilizadas (Frontend):**
 

@@ -45,7 +45,7 @@ Asegúrate de tener Node.js (v12 o superior recomendado) y npm (o yarn) instalad
     # O si usas yarn:
     # yarn serve
     ```
-    El frontend estará disponible en el puerto que indique la consola. El frontend actualmente consume la API pública de `jsonplaceholder.typicode.com` para la lista de usuarios.
+    El frontend estará disponible específicamente en `http://localhost:8765/`. El frontend actualmente consume la API pública de `jsonplaceholder.typicode.com` para la lista de usuarios.
 
 ## Parte 2: Backend (API .NET)
 
@@ -96,8 +96,8 @@ Asegúrate de tener el SDK de .NET 6+ instalado.
     ```bash
     dotnet run
     ```
-   La base de datos en memoria se inicializará con algunos datos de ejemplo al iniciar.
-5.  Accede a la documentación de Swagger UI en la ruta `/swagger` (ej: `https://localhost:5001/swagger`) para explorar y probar los endpoints de Productos.
+    La API se ejecutará específicamente en `https://localhost:5240/` (y `http://localhost:5240/`). La base de datos en memoria se inicializará con algunos datos de ejemplo al iniciar.
+5.  Accede a la documentación de Swagger UI en la ruta `/swagger` (ej: `https://localhost:5240/swagger`) para explorar y probar los endpoints de Productos.
 
 ### Ejecución de Pruebas Unitarias del Backend
 

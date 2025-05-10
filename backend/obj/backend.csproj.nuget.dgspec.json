@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/chang/Documents/proyectos/Prueba Tecnica Vue + C# /backend/backend.csproj": {}
+    "C:\\Users\\luisc\\Documents\\Prueba\\prueba-tecnica-vuejs-c-API\\backend\\backend.csproj": {}
   },
   "projects": {
-    "/home/chang/Documents/proyectos/Prueba Tecnica Vue + C# /backend/backend.csproj": {
+    "C:\\Users\\luisc\\Documents\\Prueba\\prueba-tecnica-vuejs-c-API\\backend\\backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/chang/Documents/proyectos/Prueba Tecnica Vue + C# /backend/backend.csproj",
+        "projectUniqueName": "C:\\Users\\luisc\\Documents\\Prueba\\prueba-tecnica-vuejs-c-API\\backend\\backend.csproj",
         "projectName": "backend",
-        "projectPath": "/home/chang/Documents/proyectos/Prueba Tecnica Vue + C# /backend/backend.csproj",
-        "packagesPath": "/home/chang/.nuget/packages/",
-        "outputPath": "/home/chang/Documents/proyectos/Prueba Tecnica Vue + C# /backend/obj/",
+        "projectPath": "C:\\Users\\luisc\\Documents\\Prueba\\prueba-tecnica-vuejs-c-API\\backend\\backend.csproj",
+        "packagesPath": "C:\\Users\\luisc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luisc\\Documents\\Prueba\\prueba-tecnica-vuejs-c-API\\backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/chang/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\luisc\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -79,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/256/sdk/8.0.407/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.408/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

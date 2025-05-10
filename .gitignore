@@ -1,0 +1,34 @@
+.vs/
+*.log
+.env
+
+# Ignorar la carpeta de dependencias de Node.js
+node_modules/
+
+# Ignorar archivos de construcción de Vue/Frontend
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Ignorar carpetas de construccion y objetos de .NET
+**/bin/
+**/obj/
+
+# Ignorar archivos generados por NuGet
+*.nupkg
+*.snupkg
+*.suo
+*.user
+*.aps
+*.vspscc
+*.vsscc
+*.nuget.dgspec.json
+
+# Ignorar archivos de paquetes de prueba
+*.trx
+TestResults/

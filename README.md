@@ -47,7 +47,7 @@ Asegúrate de tener Node.js (v12 o superior recomendado) y npm (o yarn) instalad
     ```
     El frontend estará disponible específicamente en `http://localhost:8765/`. El frontend actualmente consume la API pública de `jsonplaceholder.typicode.com` para la lista de usuarios.
 
-![Demostración de la búsqueda de usuarios](docs/images/frontend-clip.gif)
+![Demostración de la búsqueda de usuarios](docs/images/Frontend-clip.gif)
 
 ## Parte 2: Backend (API .NET)
 

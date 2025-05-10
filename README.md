@@ -101,6 +101,8 @@ Asegúrate de tener el SDK de .NET 6+ instalado.
     La API se ejecutará específicamente en `https://localhost:5240/` (y `http://localhost:5240/`). La base de datos en memoria se inicializará con algunos datos de ejemplo al iniciar.
 5.  Accede a la documentación de Swagger UI en la ruta `/swagger` (ej: `https://localhost:5240/swagger`) para explorar y probar los endpoints de Productos.
 
+
+![Vista de los controladores en Swagger](docs/images/Backend-image.PNG)
 ### Ejecución de Pruebas Unitarias del Backend
 
 Para ejecutar las pruebas unitarias del backend:
